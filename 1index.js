@@ -8,4 +8,4 @@ console.log(a)
 // javascript reserved words cannot be used as variable name like 'var' EventCounts.
 a="akash"
 console.log(a)
-// Akash &akash both are different variable
+// Akash & akash both are different variable
