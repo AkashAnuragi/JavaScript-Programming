@@ -13,7 +13,7 @@ console.log(typeof d)
 // OBJECTS-non-primitive datatype.
 const item ={
     "Akash":true,
-    "Ayushi":false,
+    "Akhil":false,
     "Ayush":56,
     "Kartik":undefined
 }
