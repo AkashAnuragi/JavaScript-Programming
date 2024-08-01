@@ -2,9 +2,9 @@
 let a =45;
 let b= "Akash";
 let c= null
-let d=undefined
+let d= undefined
 {
-     let b= 'this'   
+     let b = 'this'   
     console.log(b)
     // var is globally scoped while let and const are blocked scoped.
     // var can be updated and re-decleared within its scope.
